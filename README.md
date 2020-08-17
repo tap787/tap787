@@ -1,10 +1,6 @@
 ### Hi there, I'm Rodrigo and I´m now on Gitlab - (https://gitlab.com/rodrigo.carvalho1907) 👋
 
 ## I'm studying to become an Air Traffic Controller
-- 🔭 I’m currently working on main PHP/HTML Project website!
-- 🌱 Mostly using Python
-
----
 
 ### Languages and Tools:
 
